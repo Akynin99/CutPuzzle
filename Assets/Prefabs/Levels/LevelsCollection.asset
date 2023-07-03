@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c59593d97208444f81a846556c992f6, type: 3}
+  m_Name: LevelsCollection
+  m_EditorClassIdentifier: 
+  _overfillStrategy: 2
+  _shuffleStartId: 3
+  Levels:
+  - Id: Level 1
+    Mirrored: 0
+  - Id: Level 2
+    Mirrored: 0
+  - Id: Level 3
+    Mirrored: 0
+  - Id: Level 4
+    Mirrored: 1
+  - Id: TestLevel 3
+    Mirrored: 0
+  - Id: Level 6
+    Mirrored: 0
+  - Id: Level 5
+    Mirrored: 0
+  - Id: TestLevel 1
+    Mirrored: 0
+  - Id: Level 7
+    Mirrored: 0
+  - Id: Level 9
+    Mirrored: 0
+  - Id: Level 10
+    Mirrored: 0
+  - Id: Level 11
+    Mirrored: 0
+  - Id: Level 14
+    Mirrored: 0
+  - Id: Level 15
+    Mirrored: 0
+  - Id: Level 16
+    Mirrored: 0
+  - Id: Level 17
+    Mirrored: 0
+  - Id: Level 18
+    Mirrored: 0
+  - Id: Level 19
+    Mirrored: 0
+  - Id: Level 20
+    Mirrored: 0
+  - Id: Level 21
+    Mirrored: 0
+  - Id: Level 22
+    Mirrored: 0
+  - Id: Level 23
+    Mirrored: 0
+  - Id: Level 24
+    Mirrored: 0
+  - Id: Level 25
+    Mirrored: 0
+  - Id: Level 26
+    Mirrored: 0
+  - Id: Level 27
+    Mirrored: 0
+  - Id: Level 28
+    Mirrored: 0
+  - Id: Level 29
+    Mirrored: 0
+  - Id: Level 30
+    Mirrored: 0
+  - Id: Level 31
+    Mirrored: 0
+  - Id: Level 32
+    Mirrored: 0
+  - Id: Level 33
+    Mirrored: 0
+  - Id: Level 34
+    Mirrored: 0
+  - Id: Level 35
+    Mirrored: 0
+  - Id: Level 36
+    Mirrored: 0
+  - Id: Level 37
+    Mirrored: 0
+  - Id: Level 38
+    Mirrored: 0
+  - Id: Level 39
+    Mirrored: 0
+  - Id: Level 40
+    Mirrored: 0
+  - Id: Level 41
+    Mirrored: 0
+  - Id: Level 4
+    Mirrored: 0
+  - Id: Level 5
+    Mirrored: 1
+  - Id: Level 9
+    Mirrored: 1
+  - Id: Level 10
+    Mirrored: 1
+  - Id: Level 11
+    Mirrored: 1
+  - Id: Level 14
+    Mirrored: 1
+  - Id: Level 15
+    Mirrored: 1
+  - Id: Level 18
+    Mirrored: 1
+  - Id: Level 19
+    Mirrored: 1
+  - Id: Level 20
+    Mirrored: 1
+  - Id: Level 21
+    Mirrored: 1
+  - Id: Level 23
+    Mirrored: 1
+  - Id: Level 24
+    Mirrored: 1
+  - Id: Level 25
+    Mirrored: 1
+  - Id: Level 26
+    Mirrored: 1
+  - Id: Level 27
+    Mirrored: 1
+  - Id: Level 29
+    Mirrored: 1
+  - Id: Level 30
+    Mirrored: 1
+  - Id: Level 32
+    Mirrored: 1
+  - Id: Level 33
+    Mirrored: 1
+  - Id: Level 34
+    Mirrored: 1
+  - Id: Level 35
+    Mirrored: 1
+  - Id: Level 36
+    Mirrored: 1
+  - Id: Level 37
+    Mirrored: 1
+  - Id: Level 38
+    Mirrored: 1
+  - Id: Level 39
+    Mirrored: 1
+  - Id: Level 40
+    Mirrored: 1
