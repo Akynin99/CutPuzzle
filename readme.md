@@ -3,7 +3,7 @@
 ---
 
 #### Requirements
-- Unity 2021.3.18f1
+- Unity 2021.3.18f1 (use Android platform)
 - uses addresables 
 
 --- 
